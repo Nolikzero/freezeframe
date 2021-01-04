@@ -1,0 +1,22 @@
+{
+  "name": "freezeframe",
+  "version": "2.0.3",
+  "ignore": [
+    "example/",
+    "php_test",
+    "README.md",
+    "index.html",
+    "style.css",
+    "style.less"
+  ],
+  "homepage": "https://github.com/shedali/freezeframe",
+  "_release": "2.0.3",
+  "_resolution": {
+    "type": "version",
+    "tag": "2.0.3",
+    "commit": "ad17e0f15ed162bd581c9ea7206452005cddc32c"
+  },
+  "_source": "https://github.com/shedali/freezeframe.git",
+  "_target": "^2.0.3",
+  "_originalSource": "freezeframe"
+}
